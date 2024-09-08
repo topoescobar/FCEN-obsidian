@@ -1,0 +1,13 @@
+**El legado de Charles Darwin**
+
+El pensamiento evolutivo de Charles Darwin marcó una revolución en la ciencia y en la forma en que comprendemos la diversidad de la vida en la Tierra. Durante su **viaje en el Beagle** (1831-1836), Darwin recopiló observaciones que serían cruciales para desarrollar su teoría de la **evolución**. Recolectó y analizó material fósil que le permitió hacer relaciones entre especies extintas con las especies actuales, también hizo vinculaciones entre las características ambientales con cambios en las distribuciones espaciales relacionados con la **variabilidad** de las especies.
+
+Inspirado por el ensayo de **Malthus** sobre las poblaciones, Darwin trasladó la idea a la naturaleza en donde los individuos se encuentran limitados por el acceso a recursos, dedujo que se debería generar una lucha competitiva, esencial para su **supervivencia**, permitiendo a los individuos más adaptados tener una **reproducción diferencial**. Esto proporciona un medio para generar nuevas especies a partir de las preexistentes y a través de la supervivencia de individuos dotados de variaciones beneficiosas. De esta forma termina formulando la teoría de la **selección natural**.
+
+A través de estas ideas cuestionó el concepto dominante de **fijismo** o inmutabilidad de las especies, respaldado por el **dogma cristiano**. Estas ideas ya planteadas por Couvier no fueron bien vistas en la época, ya que cuestionaba el estado de situación en ese momento y eran asociadas con las ideas políticas revolucionarias (Revolución Francesa).
+
+Todo el cuerpo teórico desarrollado tuvo una fuerte impronta **materialista**, en contraposición con la influencia esencialista que impregnaba el pensamiento académico y religioso en esos momentos.
+
+Con respecto a la **variabilidad** en las poblaciones propuso que surge en parte por el **azar**, y aunque Darwin no conocía los mecanismos precisos de la **herencia**, posteriores investigaciones, como las leyes de **Mendel**, explicarían cómo se transmiten los rasgos de generación en generación. Darwin propuso que a lo largo de amplios períodos de tiempo, el acumulado de pequeños **cambios** podía dar origen a nuevas **especies**, desafiando así la visión tradicional.
+
+Este enfoque no solo transformó la biología, sino que abrió la puerta a nuevas interpretaciones sobre la relación entre el ser humano y el mundo natural, sentando las bases para una comprensión científica y dinámica de la biodiversidad que sigue evolucionando hoy en día. En la conmemoración del “año Darwin”, recordar estas ideas es esencial para entender el impacto duradero de su legado.

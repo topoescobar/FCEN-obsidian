@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"fed58aa2a8ea6aaf","x":-615,"y":-100,"width":250,"height":60,"type":"text","text":"Apertura de canales Na"},
+		{"id":"d017601cc052e471","x":-420,"y":-200,"width":229,"height":50,"color":"6","type":"text","text":"ESTADO REPOSO (-)"},
+		{"id":"9a3e51cb7e38fa46","x":-420,"y":0,"width":240,"height":60,"color":"6","type":"text","text":"DESPOLARIZACION (-)"},
+		{"id":"ddd47d664bfe3325","x":-580,"y":-280,"width":140,"height":60,"type":"text","text":"Estimulo"},
+		{"id":"b9253199ac51fffe","type":"text","text":"Apertura de may canales Na+","x":-615,"y":100,"width":195,"height":60},
+		{"id":"04b9c5a30462e12f","type":"text","text":"SUBIDA POTENCIAL ACCION (+)","x":-420,"y":200,"width":260,"height":60,"color":"6"},
+		{"id":"2ab3b76420c2b88c","type":"text","text":"Cierre can Na+ \nApertura K+","x":-607,"y":320,"width":195,"height":60},
+		{"id":"f15cd203b51cebfa","type":"text","text":"CAIDA POTENCIAL ACCION (+)","x":-412,"y":400,"width":260,"height":60,"color":"6"},
+		{"id":"a549c7110544d5d6","type":"text","text":"HIPERPOLARIZACION (-)","x":-412,"y":500,"width":260,"height":60,"color":"6"},
+		{"id":"2fa65048d74a3753","type":"text","text":"Apertura Na+\nCierre K+ ","x":-615,"y":600,"width":195,"height":60},
+		{"id":"6f19795467797122","type":"text","text":"ESTADO REPOSO (-)","x":-396,"y":680,"width":229,"height":50,"color":"6"}
+	],
+	"edges":[]
+}

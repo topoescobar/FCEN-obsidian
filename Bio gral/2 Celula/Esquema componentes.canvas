@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"0777cd8547bb29f3","type":"text","text":"Nucleolo","x":-125,"y":80,"width":250,"height":60},
+		{"id":"8fd68dde7a27d53e","type":"text","text":"Ribosomas","x":-125,"y":180,"width":250,"height":60},
+		{"id":"e6ac2edf234ab1ec","type":"text","text":"Nucleo","x":-125,"y":-40,"width":250,"height":60},
+		{"id":"918708ae607be826","type":"text","text":"Citoplasmaticos","x":-300,"y":343,"width":250,"height":60},
+		{"id":"d0b4dd0efffb898f","type":"text","text":"RER","x":60,"y":343,"width":250,"height":60},
+		{"id":"4f073befa6364d47","type":"text","text":"Proteinas libres","x":-300,"y":456,"width":250,"height":60},
+		{"id":"0de6cf786d62e674","type":"text","text":"REg Ca2+:\n- Neuronas\n- Cels muculares\n","x":700,"y":265,"width":220,"height":175},
+		{"id":"0d0555a6e679f7ba","type":"text","text":"REL","x":575,"y":140,"width":250,"height":60},
+		{"id":"c7cbc7bcfca4ba8b","type":"text","text":"REg. carbohidratos","x":980,"y":265,"width":250,"height":60},
+		{"id":"40652bab51174074","type":"text","text":"Sintesis lipidos","x":420,"y":298,"width":250,"height":54},
+		{"id":"ca56d312ddcc7b12","type":"text","text":"Proteinas","x":95,"y":565,"width":180,"height":60},
+		{"id":"8e0232db8dfa48cb","type":"text","text":"Sist. Golgi: modificaciones","x":275,"y":440,"width":190,"height":76},
+		{"id":"caa68ccd4db435d8","type":"text","text":"Membrana","x":458,"y":570,"width":175,"height":50},
+		{"id":"7e05a26c08ffb7aa","type":"text","text":"Mitocondrias","x":229,"y":-66,"width":191,"height":56},
+		{"id":"6cdf15cc28002ef2","type":"text","text":"ATP","x":546,"y":-66,"width":94,"height":60},
+		{"id":"ee07dc7e84f784a7","type":"text","text":"Citoesqueleto","x":-48,"y":721,"width":173,"height":59},
+		{"id":"616a76f3fa0f65c6","type":"text","text":"glucolisis (citoplasma): glucosa -> piruvato +atp\n\n  \n\nmitocondria:\n\n- pre-krebs (matriz): piruvato -> acetilcoa -> citrato\n\n- ciclo krebs (matriz): citrato-> nadh2+ fad + atp co2\n\n- fosforilacion oxidativa (membrana interna): nadh + fad --cadena e´--> ATP","x":840,"y":-260,"width":390,"height":340}
+	],
+	"edges":[
+		{"id":"97de44fefce40d14","fromNode":"e6ac2edf234ab1ec","fromSide":"bottom","toNode":"0777cd8547bb29f3","toSide":"top"},
+		{"id":"9e449fa8954f1a0e","fromNode":"0777cd8547bb29f3","fromSide":"bottom","toNode":"8fd68dde7a27d53e","toSide":"top"},
+		{"id":"f8b883f835c672d4","fromNode":"8fd68dde7a27d53e","fromSide":"bottom","toNode":"918708ae607be826","toSide":"top"},
+		{"id":"6e2326b9e4bde017","fromNode":"8fd68dde7a27d53e","fromSide":"bottom","toNode":"d0b4dd0efffb898f","toSide":"top"},
+		{"id":"f99e06275c560713","fromNode":"918708ae607be826","fromSide":"bottom","toNode":"4f073befa6364d47","toSide":"top"},
+		{"id":"ca7382ee63352b52","fromNode":"d0b4dd0efffb898f","fromSide":"bottom","toNode":"ca56d312ddcc7b12","toSide":"top"},
+		{"id":"2ca99a2a0b691d19","fromNode":"0d0555a6e679f7ba","fromSide":"bottom","toNode":"40652bab51174074","toSide":"top"},
+		{"id":"f934619744758b68","fromNode":"0d0555a6e679f7ba","fromSide":"bottom","toNode":"0de6cf786d62e674","toSide":"top"},
+		{"id":"3ed5920073b10441","fromNode":"0d0555a6e679f7ba","fromSide":"bottom","toNode":"c7cbc7bcfca4ba8b","toSide":"top"},
+		{"id":"4df303fa6ca4f6b6","fromNode":"ca56d312ddcc7b12","fromSide":"right","toNode":"8e0232db8dfa48cb","toSide":"bottom"},
+		{"id":"bf0882722ee6e3b5","fromNode":"40652bab51174074","fromSide":"bottom","toNode":"caa68ccd4db435d8","toSide":"top"},
+		{"id":"4a4d10f3b0466147","fromNode":"8e0232db8dfa48cb","fromSide":"bottom","toNode":"caa68ccd4db435d8","toSide":"left"},
+		{"id":"8e5cab39ec2dddef","fromNode":"7e05a26c08ffb7aa","fromSide":"right","toNode":"6cdf15cc28002ef2","toSide":"left"},
+		{"id":"07bbafc44b5e105a","fromNode":"ca56d312ddcc7b12","fromSide":"bottom","toNode":"ee07dc7e84f784a7","toSide":"top"}
+	]
+}

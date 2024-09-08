@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"25e3abc678c768f2","type":"group","x":-300,"y":-160,"width":440,"height":300,"label":"Nucleo"},
+		{"id":"797a139c79ed2935","type":"group","x":620,"y":-886,"width":440,"height":292,"label":"Terciarias"},
+		{"id":"9f6056b266171b2a","type":"group","x":-376,"y":180,"width":152,"height":160,"label":"Reguladores"},
+		{"id":"17c950a229a73c58","type":"text","text":"Estructuras","x":328,"y":-893,"width":250,"height":60},
+		{"id":"5da9df676b07eb68","type":"text","text":"Libertad rotacion bases desapareadas","x":640,"y":-808,"width":180,"height":118},
+		{"id":"fbadaf89b889bab2","type":"text","text":"Secundarias","x":360,"y":-690,"width":185,"height":50},
+		{"id":"b0c0ba601741af26","type":"text","text":"lncRNA","x":-440,"y":-48,"width":116,"height":60},
+		{"id":"7752d5221b553d6c","type":"text","text":"snRNA","x":16,"y":-18,"width":112,"height":60},
+		{"id":"65444969482c3d1e","type":"text","text":"DNA","x":-150,"y":-160,"width":97,"height":60},
+		{"id":"06e9d9cf174a8ae3","type":"text","text":"RNAhn","x":-158,"y":-48,"width":113,"height":62},
+		{"id":"0ccd5a55ebdec6e3","type":"file","file":"Molecular/attachments/antisentido.png","x":-382,"y":-560,"width":542,"height":220},
+		{"id":"7603fcdfb6b5f61d","type":"file","file":"Molecular/attachments/Screenshot_20240717_124746.png","x":840,"y":-866,"width":192,"height":252},
+		{"id":"1a26deb969cc762b","type":"text","text":"miRNA","x":-356,"y":200,"width":112,"height":60},
+		{"id":"349dcf934c5007d6","type":"file","file":"Molecular/attachments/secundarias.png","x":223,"y":-560,"width":643,"height":220},
+		{"id":"38216081b8d2a0a4","type":"text","text":"siRNA","x":-356,"y":260,"width":112,"height":60},
+		{"id":"9e93c8c9b73da902","type":"text","text":"RNAm","x":-156,"y":200,"width":109,"height":60}
+	],
+	"edges":[
+		{"id":"e4952a86081d0cd0","fromNode":"06e9d9cf174a8ae3","fromSide":"bottom","toNode":"9e93c8c9b73da902","toSide":"top","label":"splicing"},
+		{"id":"57116deae3ab3ade","fromNode":"7752d5221b553d6c","fromSide":"left","toNode":"9e93c8c9b73da902","toSide":"top"},
+		{"id":"5c30b9e8d2191c00","fromNode":"b0c0ba601741af26","fromSide":"right","toNode":"9e93c8c9b73da902","toSide":"top"},
+		{"id":"7e550419ea05b227","fromNode":"b0c0ba601741af26","fromSide":"right","toNode":"65444969482c3d1e","toSide":"left","label":"regulacion"},
+		{"id":"afe3374fa6297daa","fromNode":"65444969482c3d1e","fromSide":"bottom","toNode":"06e9d9cf174a8ae3","toSide":"top"},
+		{"id":"717b4191fbc85fd9","fromNode":"1a26deb969cc762b","fromSide":"right","toNode":"9e93c8c9b73da902","toSide":"left"},
+		{"id":"254b2055ccc1e2ff","fromNode":"38216081b8d2a0a4","fromSide":"right","toNode":"9e93c8c9b73da902","toSide":"left"},
+		{"id":"574029cfa66e467c","fromNode":"fbadaf89b889bab2","fromSide":"bottom","toNode":"349dcf934c5007d6","toSide":"top"},
+		{"id":"c897ddeb19cf4816","fromNode":"17c950a229a73c58","fromSide":"bottom","toNode":"fbadaf89b889bab2","toSide":"top"},
+		{"id":"25c38ec15193fbb7","fromNode":"17c950a229a73c58","fromSide":"bottom","toNode":"5da9df676b07eb68","toSide":"left"}
+	]
+}
