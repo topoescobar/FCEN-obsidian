@@ -1,3 +1,4 @@
+# Intro
 - Evolucion: cambios heredable en una poblacion a traves de generaciones.
 No todos los cambios son evolutivos, ej los cambios ontogenicos no heredables
 
@@ -5,7 +6,6 @@ Fosiles
 fuerte evidencia evolucion -> marcas en rocas similares a organismos actuales
 ordenados segun el proceso evolutivo (mas recientes capas superiores)
 a nivel de estratos en la misma region se encuentran los mismos tipos de fosiles
-
 # Pensamiento evolutivo
 ## Couvier
 - precursor de la anatomia comparada: forma -depende-> función y no por ascendencia comun, implementacion metodologias empiristas

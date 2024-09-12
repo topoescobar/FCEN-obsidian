@@ -1,19 +1,12 @@
-Instalar r y r studio
-paquetes:
-hierfst
-adegenet
-geosphere
-ape
-
-scripts y datos moodle
-
+Especiacion - Grants
 aislamiento repr --> canto 
 			--> morfologia
 
 fact estocasticos -> canto mal aprendido
-			-> inmigracion
+			-> inmigracion y reproduccion 
 
-deterministicos: --> territorio (barrios canto)
-			--> presion de seleccion (sequia)
+deterministicos: --> territorio (clusters -> barrios canto)
+			 -->SN: presion de seleccion (sequia)
 
 sequia --> semillas mas chicas --> aum presion seleccion --> mortalidad diferencial para picos tamaños grandes
+ 
