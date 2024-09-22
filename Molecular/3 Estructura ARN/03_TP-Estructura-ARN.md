@@ -1,5 +1,5 @@
 # Estructura
-![[attachments/estructura.png]]
+![estructura](../attachments/estructura.png)
 
 a) Se trata de la estructura primaria de una secuencia de desoxirribonucleótidos.
 F, son ribonucleotidos, el azúcar es una ribosa porque tiene el grupo OH- en el carbono 2’ (en vez de solo H como la desoxiribosa del ADN) y esta presenta la base uracilo.
@@ -47,7 +47,7 @@ F, el RNA es mas reactivo por la presencia del -OH en el C2’ susceptible de hi
 | RNAs no codificadores largos (lncRNA)                  | 200 bases                              | splicing, traducción, regulación transcripcional                                                 |
 
 # Estructuras secundarias
-![[attachments/secundarias.png]]
+![secundarias](../attachments/secundarias.png)
 
 
 
@@ -76,7 +76,7 @@ b- G-U, U-U
 1. Completa el nombre de cada hebra de DNA durante la transcripción. 
 2. Indica cuál es la hebra codificante. Explica brevemente
 la cadena antisentido o no codigicante es la que hace de plantilla, la cadena codificante tendra la misma informacion que el ARN transcripto
-![[attachments/antisentido.png]] 
+![antisentido](../attachments/antisentido.png) 
 
 9. a) Copia la secuencia nucleotídica del transcripto del RNA de la imagen anterior. Recuerda que por convención las cadenas nucleotídicas SIEMPRE se escriben de 5´ -> 3’. No olvides de INDICAR la polaridad de la secuencia
 b). Usando el código génetico traduce esta secuencia a la secuencia aminoacídica correspondiente (ayuda: comienza a partir del segundo triplete, porque el primer triplete  corresponde a un codón STOP)

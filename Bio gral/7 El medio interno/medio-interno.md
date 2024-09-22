@@ -79,21 +79,21 @@ radiación, la conducción y la convección
 regulan ellos mismos su temperatura por metabolismo
 
 
-![[bioenergetica.png]]
+![bioenergetica](attachments/bioenergetica.png)
 ## Mecanismos intercambio calor
 - Convección: por movimiento de aire, regulado por vasodilatacion o constriccion
 - Radiación
 - Evaporación
 - Conducción
-![[intercambio-calor.jpg]]
+![intercambio-calor](attachments/intercambio-calor.jpg)
 ## Adaptaciones
 ### Tegumento: 
 conformado por epidermis + dermis con glandulas sudoriparas, sebaceas + hipodermis con tejido adiposo aislante. gran regulacion térmica
 ### Circulatoria
 Intercambiadores de calor contracorriente, 
-![[Pasted image 20240729161745.png]]
-![[Pasted image 20240729161831.png]]
-![[Pasted image 20240729161845.png]]
+![Pasted image 20240729161745](attachments/Pasted%20image%2020240729161745.png)
+![Pasted image 20240729161831](attachments/Pasted%20image%2020240729161831.png)
+![Pasted image 20240729161845](attachments/Pasted%20image%2020240729161845.png)
 ### Muscular
 tiritacion, aumenta la creacion de calor
 # Sopor
@@ -102,4 +102,4 @@ bajar la temperatura. En general es llevado a cabo por organismos de poco tamañ
 temperatura corporal baja tanto que prácticamente iguala la temperatura ambiente
 Hibernación: la hibernación es un sopor prolongado.
 ej: temperatura y metabolismo de ardillas
-![[hibernacion.png]]
+![hibernacion](attachments/hibernacion.png)

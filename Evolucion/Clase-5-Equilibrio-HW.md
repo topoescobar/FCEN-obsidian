@@ -15,10 +15,10 @@ Heterocogitas: 2*p*q
 - Tamaño poblacional infinito -> no hay efecto de deriva
 - No hay flujo génico ni migración entre poblaciones
 - Panmixia: apareamiento al azar, no hay endogamia ni selección sexual
-![[Pasted image 20240828172726.png]]
+![Pasted image 20240828172726](attachments/Pasted%20image%2020240828172726.png)
 ## Diferentes tipos de seleccion
-![[Pasted image 20240828191905.png]]
-![[efecto-dominancia.png]]
+![Pasted image 20240828191905](attachments/Pasted%20image%2020240828191905.png)
+![efecto-dominancia](attachments/efecto-dominancia.png)
 ## Teoría neutral
 La **Teoría Neutral** sostiene que la mayoría de las mutaciones a nivel molecular son **neutrales** en cuanto a la selección natural, lo que significa que no afectan la capacidad de un organismo para sobrevivir y reproducirse. Según esta teoría:
 

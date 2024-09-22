@@ -43,7 +43,7 @@ proporciona estructura, sostén.
 	- Plantas:  composición celulosa + otras proteinas
 #### Cloroplastos 
 (vegetal): 2ble membrana, dna y ribosomas propios. Fotosíntesis: proceso anabólico-> captación de energía para fijar CO2 en carbohidratos.
-![[cloroplasto.png]]
+![cloroplasto](attachments/cloroplasto.png)
 #### Vacuola
 no es exclusiva, pero es mucho mas grande y con mas funciones (almacenamiento, estructura, neutralizacion de desechos)
 

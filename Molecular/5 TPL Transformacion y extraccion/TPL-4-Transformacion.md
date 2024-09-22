@@ -3,8 +3,8 @@
 Los plásmidos son moléculas de ADN extra cromosómicas, circulares y de pequeño tamaño, pueden contener genes que contribuyen a la supervivencia en condiciones adversas, como los que confieren resistencia a antibióticos. Tienen replicación relajada: de forma independiente al DNA cromosómico y con varias copias por célula
 > Plásmido + inserto = ADN recombinante
 
-![[plasmido-recomb.png]]
-![[transformacion.png]]
+![plasmido-recomb](attachments/plasmido-recomb.png)
+![transformacion](attachments/transformacion.png)
 La incorporación del plásmido en una bacteria competente produce la transformación bacteriana
 ## Objetivo
 Transformar bacterias competentes por "shock térmico" usando plásmido recombinante y seleccionar las transformadas.

@@ -58,7 +58,7 @@ Los autores recomiendan el método de acetato de potasio modificado porque const
 El virus SARS-CoV-2 tiene un genoma de ARN.
 ### Clasificación de Baltimore
 El genoma del SARS-CoV-2 es de sentido positivo, lo que significa que su ARN puede ser directamente utilizado como ARNm por la maquinaria celular para la síntesis de proteínas, por lo tanto pertenece al grupo IV en la clasificación de Baltimore. La transcripción a RNA(-) sirve para la regulación génica y molde para la replicación nuevamente a RNA(+)
-![[baltimore.jpg]]
+![baltimore](attachments/baltimore.jpg)
 
 ### Métodos de extracción para diagnóstico
 #### Extracción con columnas y kits de extracción automatizada

@@ -34,7 +34,7 @@ La sequia aumento la seleccion de los residentes para fenotipos con picos mas ch
 
 ¿Cuál fue su resultado adaptativo?
 Picos mas pequeños (anchura) en los G fortis nativos y mas grandes en los hibridos inmigrantes
-![[Pasted image 20240909125904.png]]
+![Pasted image 20240909125904](attachments/Pasted%20image%2020240909125904.png)
  ¿De qué manera pudo influir en esa obstaculización algún factor no gobernado por herencia/genética clásica? Indique el factor y el modo en que influyó.
  El canto es aprendido culturalmente, el inmigrante hibrido habria aprendido mal el canto original, luego de varias generaciones con la diferencia de tamaños de picos la diferencia de cantos tambien se acentuo favoreciendo el aislamiento reproductivo.
 ## Adaptación
@@ -54,10 +54,17 @@ Los ratones de clima humedo en condiciones de desierto tendran pero metabolismo 
 - ==Comparacion con control por filogenia:== se usa igual en una prueba de divergencia adaptativa?
 se debe reconstruir el arbol filogenetico con las poblaciones, utilizar diferentes grupos con variacion idependiente para independizar las variables (quitando el lastre genetico) y luego analizar la correlacion corregida por el control de filogenia
 
-![[metodo-comparativo-filogenia.png]]
+![metodo-comparativo-filogenia](attachments/metodo-comparativo-filogenia.png)
 
 ## Perdida de equilibrio HW
 
+### Seleccion
+![Pasted image 20240912120445](attachments/Pasted%20image%2020240912120445.png)
+histogramas: simulacion en equilibrio
+linea roja: muestra observada
+homozigota 0: seleccion negativa/purificadora, no afectado por anemia pero si por malaria
+homozigota 1: anemia falsiforme seleccion negativa o purificadora x alelo deletereo
+heterocigota: seleccion positiva, un gen de la anemia falsiforme les da ventaja ante la malaria
 ### Deriva génica
 #### Condiciones
 - poblacion aislada (sin flujo genico)
@@ -66,7 +73,7 @@ se debe reconstruir el arbol filogenetico con las poblaciones, utilizar diferent
 - no hay SN, todos los individuos se reproducen
 - la supervivencia de los posibles zigots es azarosa
 #### Simulaciones
-![[7.2-deriva.png]]
+![7.2-deriva](attachments/7.2-deriva.png)
 #### Conclusiones
 - En poblaciones suficientemete grandes no hay deriva génica
 - En poblaciones pequeñas en algun momento se pierde un alelo y se fija el otro, mientras mas chica mas rápido
@@ -74,9 +81,18 @@ se debe reconstruir el arbol filogenetico con las poblaciones, utilizar diferent
 - Como resultado hay una pérdida de variabilidad
 - Poblaciones iguales pueden sufrir divergencias
 
-## Divergencia genética Fst
+
+## Flujo génico
+Δp = m (p<sub>m</sub> – p)
+variacion frec alelo p = prop de migrantes * (p en poblacion m - p en poblacion analizada)
+Ej: poblacion migrante con alelo p = 0,75 ; poblacion receptora con p = 0.25 ; tasa migracion = 0.1
+Δp = 0,1 (0,75 - 0,25) = 0,05
+entonces la nueva frecuencia p será: p= 0,25 + 0,05 = 0,3
+### Divergencia genética Fst
 Es la fracción de la varianza genética total encontrada en dos o más poblaciones que resulta de las diferencias genéticas entre ellas.
 Fst = 0 -> poblaciones identicas ,  Fst = 1 poblaciones con alelos totalmente diferentes.
 Ej Fst=0.1 quiere decir que el 10% de la diferencia genetica entre 2 poblaciones se debe a diferencias entre ellas, el 90% restante es la variación típica de una población.
 
-![[fst-chart.png]]
+### Patron de aislamiento por distancia
+Correlacion lineal entre la distancia lineal de 2 poblaciones y su Fst, resultado de una combinacion de 
+![fst-chart](attachments/fst-chart.png)
