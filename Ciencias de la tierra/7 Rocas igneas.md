@@ -24,7 +24,7 @@ enfriamiento lento en placa mafica (oceanica de silicatos oscuros)-> rocas ignea
 Texturas Subvolcanicas: 
 - Porfidicas: empieza cono proceso de feneritica que es expulsada a enf rápido, quedan cristales grandes incompletos => <u>fenocristales</u> rodeado por cristales pequeños => pasta
 - Pegmatinica: (roca pegmatita), empieza como faneritica -> subvolcanica con tierras raras, agua (amortigua perdida calor), acidos -> **cristales muy grandes**
-salidas lateral del pensacho con enfriamiento mas rapido que interior pero mas lento que el exterior con aportes de acidos de las expulsiones volcan que reingresan ![[Rocas-1624109628.jpeg]]
+salidas lateral del pensacho con enfriamiento mas rapido que interior pero mas lento que el exterior con aportes de acidos de las expulsiones volcan que reingresan ![Rocas-1624109628](../Evolucion/attachments/Rocas-1624109628.jpeg)
 
 - Vitrea: 
 Silicatos:
