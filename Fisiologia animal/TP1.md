@@ -1,3 +1,4 @@
+## Propiedades de los gases
 1. ¿Qué relación hay entre la superficie corporal de los diferentes animales, las necesidades de oxígeno y la emergencia de estructuras respiratorias? Puede seleccionar diferentes grupos de animales a fines comparativos.
 tasa metabolica relativa -> (o2/min/masa) permite comparar animales de distinto tamaño
 
@@ -30,7 +31,6 @@ Representa el equilibrio de gases en la biosfera sobre el nivel del mar, entre l
 4. Identifique diferentes microambientes, donde las variaciones de gases respiratorios
 puedan diferenciarse de ambientes estables como el mar o la atmósfera. Realice una tabla
 comparada don datos de concentración o porcentaje de oxígeno y dióxido.
-
 microambientes: lagos, lagunas, estanques, pantanos, diques.
 
 5. ¿Qué significa para usted el punto de ebullición del agua? Si usted se encuentra de
@@ -63,3 +63,27 @@ Los animales en esa altura tienen ajustes fisiológicas: regulación de frecuenc
 Tomando en cuenta la ley de difusión de gases, usted considera que habrá algún
 impedimento en el acceso al oxígeno atmosférico dentro del nido. Justifique su
 respuesta.
+
+## Órganos respiratorios
+1. ¿Cómo se estima la tasa de captación de oxígeno en un animal? ¿Qué aporta conceptualmente el cálculo del coeficiente de utilización de oxígeno?
+$T = Vm * (Ci – Ce)$
+T: Tasa de absorción de O2 (mL O2 / min)
+Vm: volumen medio de aire/agua (mL/min )
+Cantidad inhalada (CI) y espirado (CE) de O2 por unidad de volumen
+**Coeficiente de extracción**
+Es la capacidad para extraer oxígeno del medio (aire o agua) que atraviesa la estructura ventilatoria, expresado como porcentaje del O2 extraido/Total ingresado
+
+2. La bibliografía sugiere que el coeficiente de captación de oxígeno a nivel branquial es menor en los salmoniformes (la trucha arco iris) que en los perciformes (atún de aleta amarilla y el bonito de altura). ¿Qué modificaciones de la membrana respiratoria podrían haber ocurrido? ¿Podrían corresponderse estos cambios con una sinapomorfia?
+La **membrana** de los salmoniformes puede tener filamentos branquiales mas delgados para aumentar el area de intercambio, y permitir mayor difusion (ley de fick-krogh).
+No se trata de una **sinapomorfia**, ya que es una característica que no se encuentra en todos los perciformes, por lo tanto es un grupo parafilético los que tienen estas adaptaciones.
+
+3. Identifique a los salmoniformes y perciformes en las gráficas de abajo, y luego realice un análisis de los cambios evolutivos en su membrana respiratoria respecto a su grupo taxonómico.
+dfsdfsdfdsf
+adsadasdasd
+![Pasted image 20240916011248](attachments/Pasted%20image%2020240916011248.png)
+4. Es indudable que el fenómeno de difusión es insuficiente para sostener las demandas metabólicas en animales adultos a partir de cierta masa corporal, y diferentes estructuras anatómicas se han especializado en el transporte convectivo (ventilación) de gases en el aire (pulmones) o en el agua (branquias). No obstante, entre los vertebrados la diversidad de estructuras y sus funciones es variable. Analicemos el caso de la piel (ver gráfica), como un gran órgano caracterizado por su gran superficie para el intercambio de gases.
+
+Luego de analizar la gráfica, redacte al menos 5 (cinco) afirmaciones Ejemplo de afirmación: “El intercambio gaseoso (oxígeno y dióxido de carbono) a través de la piel de humanos es prácticamente despreciable en comparación con otros vertebrados”.
+- Redacte o complemente las afirmaciones previas utilizando la siguiente información complementaria: especie o grupo taxonómico, sistema respiratorio funcionalmente dominante, vascularización de la piel, y resistencia a la deshidratación.
+- En aquellos taxones (peces, reptiles, anfibios, lombrices) que utilizan la piel como órgano respiratorio ¿es necesario un proceso de ventilación? Justifique su respuesta
+- ![Pasted image 20240916011328](attachments/Pasted%20image%2020240916011328.png)
