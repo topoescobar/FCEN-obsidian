@@ -78,12 +78,10 @@ La **membrana** de los salmoniformes puede tener filamentos branquiales mas delg
 No se trata de una **sinapomorfia**, ya que es una característica que no se encuentra en todos los perciformes, por lo tanto es un grupo parafilético los que tienen estas adaptaciones.
 
 3. Identifique a los salmoniformes y perciformes en las gráficas de abajo, y luego realice un análisis de los cambios evolutivos en su membrana respiratoria respecto a su grupo taxonómico.
-dfsdfsdfdsf
-adsadasdasd
-![Pasted image 20240916011248](attachments/Pasted%20image%2020240916011248.png)
+![[23.8-rel-alometrica.png]]
 4. Es indudable que el fenómeno de difusión es insuficiente para sostener las demandas metabólicas en animales adultos a partir de cierta masa corporal, y diferentes estructuras anatómicas se han especializado en el transporte convectivo (ventilación) de gases en el aire (pulmones) o en el agua (branquias). No obstante, entre los vertebrados la diversidad de estructuras y sus funciones es variable. Analicemos el caso de la piel (ver gráfica), como un gran órgano caracterizado por su gran superficie para el intercambio de gases.
 
 Luego de analizar la gráfica, redacte al menos 5 (cinco) afirmaciones Ejemplo de afirmación: “El intercambio gaseoso (oxígeno y dióxido de carbono) a través de la piel de humanos es prácticamente despreciable en comparación con otros vertebrados”.
 - Redacte o complemente las afirmaciones previas utilizando la siguiente información complementaria: especie o grupo taxonómico, sistema respiratorio funcionalmente dominante, vascularización de la piel, y resistencia a la deshidratación.
 - En aquellos taxones (peces, reptiles, anfibios, lombrices) que utilizan la piel como órgano respiratorio ¿es necesario un proceso de ventilación? Justifique su respuesta
-- ![Pasted image 20240916011328](attachments/Pasted%20image%2020240916011328.png)
+![[23.9-intercambio-piel.png]]
